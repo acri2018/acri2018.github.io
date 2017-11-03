@@ -4,9 +4,9 @@ title: ACRI 2018
 subtitle: 13<sup>th</sup> International Conference<br>Cellular Automata for Research and Industry
 ---
 
-**Scope of the Conference**
+The 13<sup>th</sup> International COnference "Cellular Automata for Research and Industry" will take place from ?? to ?? 2018 in Como (Italy) and it is organized by the Dipartimento di Informatica, Sistemistica e Comunicazione of the Università degli Studi di Milano-Bicocca.
 
-Since its first edition in 1994, the ACRI conference (Cellular Automata for Research and Industry), focused on challenging problems and new research on Cellular Automata (CA). Its primary goal is to bring together researchers from a large variety of scientific fields in order to enforce international collaborations on Cellular Automata research as well as spread knowledge between experts in several scientific areas: pure and applied mathematics, computer science, physics, biology and mathematical systems theory.
+Since its first edition in 1994, ACRI focused on challenging problems and new research on Cellular Automata (CA). Its primary goal is to bring together researchers from a large variety of scientific fields in order to enforce international collaborations on Cellular Automata research as well as spread knowledge between experts in several scientific areas: pure and applied mathematics, computer science, physics, biology and mathematical systems theory.
 
 Cellular Automata are discrete, abstract computational systems that have proved useful both as general models of complexity and as simplified representations of non-linear dynamics in a large range of scientific areas. On one hand, CA present a very powerful approach for the study of complex emergent phenomena build up out of many simple local interactions. They attract a growing number of researchers willing to study pattern formation and complexity in a pure, abstract setting. On another hand, CA are often described as a counterpart to partial differential equations which conventionally constitute the basic models for spatiotemporal systems. Because of this, CA are very popular for studying real applications in the fields of physics, engineering, environmental science, social and life sciences.
 
