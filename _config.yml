@@ -1,0 +1,33 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: ACRI 2018
+email: acri2018@disco.unimib.it
+description: >-
+  The 13th International Conference "Cellular Automata for Research and Industry" (ACRI 2018) has the goal of spreading knowledge on Cellular Automata (CA) between experts in many scientific areas, such as pure and applied mathematics, computer science, physics, biology and mathematical systems theory.
+baseurl: ""
+url: "http://acri2018.disco.unimib.it"
+twitter_username: acri2018
+github_username:  acri2018
+
+# Build settings
+markdown: kramdown
+sass:
+    sass_dir: _sass
+permalink: title
+plugins:
+  - jekyll-feed
+livereload: true
+reload_port: 35729
+
+# Exclude from processing.
+# exclude:
+#    - Gemfile
+#    - Gemfile.lock
+#    - node_modules
+#    - vendor/bundle/
+#    - vendor/cache/
+#    - vendor/gems/
+#    - vendor/ruby/

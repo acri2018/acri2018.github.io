@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="columns is-centered">
+  <div class="column is-half">
+    <div class="content has-text-justified">
+      <div class="hero">
+	<div class="hero-body">
+	  {%if page.title %}
+	  <h1 class="title"> {{page.title}} </h1>
+	  {%endif %}
+	  {%if page.subtitle %}
+	  <h4 class="subtitle"> {{page.subtitle}} </h4>
+	  {%endif %}
+	</div>
+      </div>
+      {{ content }}
+    </div>
+  </div>
+  <div class="column is-one-quarter">
+    {%include bar.html %}
+  </div>
+</div>
