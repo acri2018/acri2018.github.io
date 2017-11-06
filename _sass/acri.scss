@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
-body, button, input, select, textarea {
-    font-family: 'Lato', sans-serif
-}
+$family-sans-serif: 'Lato', sans-serif;
 
 .fixed-elem {
     position: fixed;
@@ -15,3 +13,6 @@ body, button, input, select, textarea {
 .padding-elem {
     min-height: 3.25rem;
 }
+
+@import "bulma/bulma.sass";
+@import "bulma-timeline/timeline.sass";
