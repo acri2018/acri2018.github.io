@@ -1,7 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
-
-$family-sans-serif: 'Lato', sans-serif;
-
 .fixed-elem {
     position: fixed;
     z-index: 10;
@@ -13,5 +9,3 @@ $family-sans-serif: 'Lato', sans-serif;
 .padding-elem {
     min-height: 3.25rem;
 }
-
-@import "bulma/bulma.sass";

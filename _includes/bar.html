@@ -17,3 +17,17 @@
     <a href="/venue"> Venue </a>
   </p>
 </aside>
+
+<div class="padding-elem"></div>
+
+<article class="message is-info is-bold">
+  <div class="message-body is-size-7">
+    <p class="is-size-6 has-text-weight-semibold">
+      Latest News
+    </p>
+    {%capture news %}
+    {%include news.md %}
+    {%endcapture %}
+    {{ news | markdownify }}
+  </div>
+</article>
