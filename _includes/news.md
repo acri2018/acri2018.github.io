@@ -1,7 +1,4 @@
 
 
-Still no news at the moment
-
-1) This is a reminder for the deadlines.
-
-2) This is another news
+_16-11-2017_<br>
+The ACRI 2018 website is now online

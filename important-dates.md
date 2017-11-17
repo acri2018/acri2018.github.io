@@ -2,11 +2,10 @@
 layout: page
 title: Important Dates
 ---
+|||
+|:---|---:|
+| Submission deadline  | 8 March 2018 |
+| Notification of acceptance | 3 May 2018 |
+| Final version | 8 June 2018 |
+| Conference | 17-21 September 2018 |
 
-| Submission Deadline  | _TBD_ |
-| Submission Deadline (workshops) | _TBD_ |
-| Notification Dealine  | _TBD_ |
-| Notification Deadline (workshops) | _TBD_ |
-| Registration Deadline (early) | _TBD_ |
-| Registration Deadline | _TBD_ |
-| Conference | _TBD_ |
