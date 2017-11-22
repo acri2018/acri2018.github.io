@@ -14,7 +14,7 @@ title: Committees
 **Chair of Workshops**
 - Stefania Bandini, University of Milano-Bicocca, Italy
 
-**Members of the Prgaoma Committee**
+**Members of the Program Committee**
 
 _TBA_
 
