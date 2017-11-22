@@ -16,7 +16,7 @@ github_username:  acri2018
 markdown: kramdown
 sass:
     sass_dir: _sass
-permalink: title
+permalink: title/
 plugins:
   - jekyll-feed
 livereload: true
