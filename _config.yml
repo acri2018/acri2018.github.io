@@ -19,8 +19,6 @@ sass:
 permalink: title/
 plugins:
   - jekyll-feed
-livereload: true
-reload_port: 35729
 
 # Exclude from processing.
 # exclude:
