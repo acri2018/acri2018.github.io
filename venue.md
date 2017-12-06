@@ -4,7 +4,7 @@ title: Venue
 ---
 
 The Conference will take place at the Villa del Grumello (Como, ITALY), within 
-the [Como Lake School of Advanced Studies](http://lakecomoschool.org/), see http://www.villadelgrumello.it.
+the [Como Lake School of Advanced Studies](http://lakecomoschool.org/), see [http://www.villadelgrumello.it](http://www.villadelgrumello.it).
 
 Villa del Grumello overlooks the first basin of Como Lake. It is framed by
 century-old trees and enchants its visitors with its delicate atmospheres
