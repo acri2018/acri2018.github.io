@@ -5,7 +5,7 @@ title: Call for Papers
 
 **Scope**
 
-Cellular Automata (CA) present a very powerful approach for the study of complex emergent phenomena build up out of many simple local interactions. Because of this, CA are very popular for studying real applications and have generated a great deal of interest both in academia and industry by researchers working in different scientific fields and dealing with theoretical aspects as well as practical applications.
+Cellular Automata (CA) present a very powerful approach for the study of complex emergent phenomena built up out of many simple local interactions. Because of this, CA are very popular for studying real applications and have generated a great deal of interest both in academia and industry by researchers working in different scientific fields and dealing with theoretical aspects as well as practical applications.
 
 Since its first edition in 1994, the ACRI conference focused on challenging problems and new research on Cellular Automata (CA). Its primary goal is to offer both scientists and engineers in academies and industries an opportunity to enforce international collaborations on Cellular Automata and express  their views on current trends, challenges, and state-of-the art solutions to various problems in several scientific fields: biology, computer science, chemistry, ecology, economy, engineering, geology, medicine, physics, sociology, etc.
 
