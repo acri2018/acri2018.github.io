@@ -16,7 +16,45 @@ title: Committees
 
 **Members of the Program Committee**
 
-_TBA_
+- Andy Adamatzky, University of the West of England, UK
+- Jan Baetens, Ghent University, Belgium
+- Franco Bagnoli, University of Florence, Italy
+- Stefania Bandini, Università degli Studi di Milano-Bicocca, Italy
+- Bernard De Baets, Ghent University, Belgium
+- Pedro de Oliveira, Universidade Presbiteriana Mackenzie, Brazil
+- Alberto Dennunzio, Università degli Studi di Milano-Bicocca, Italy
+- Andreas Deutsch, TU Dresden, Germany
+- Salvatore Di Gregorio, University of Calabria, Italy
+- Witold Dzwinel, AGH University of Science and Technology, Poland
+- Samira El Yacoubi, Université de Perpignan, France
+- Nazim Fates, LORIA - INRIA Nancy, France
+- Enrico Formenti, Nice Sophia Antipolis University, France
+- Ioakeim Georgoudas, Democritus University of Thrace, Greece
+- Rolf Hoffmann, TU Darmstadt, Germany
+- Toshihiko Komatsuzaki, Kanazawa University, Japan
+- Krzysztof Kułakowski, AGH University of Science and Technology, Poland
+- Martin Kutrib, Institut für Informatik, Universität Giessen, Germany
+- Anna T. Lawniczak, University of Guelph, Canada
+- Laurent Lefevre, LCIS, Univ. Grenoble Alpes, France
+- Sara Manzoni, Università degli Studi di Milano-Bicocca, Italy
+- Genaro J. Martínez, National Polytechnic Institute, Mexico
+- Giancarlo Mauri, Università degli Studi di Milano-Bicocca, Italy
+- Angelo B Mingarelli, Carleton University, Canada
+- Shin Morishita, Yokohama National University, Japan
+- Katsuhiro Nishinari, RCAST, The University of Tokyo, Japan
+- Dipanwita Roy Chowdhury, IIt kharagpur, India
+- Biplab K. Sikdar, Indian Institute of Engineering Science and Technology, India
+- Georgios Ch. Sirakoulis, Democritus University of Thrace, Greece
+- Domenico Talia, University of Calabria, Italy
+- Marco Tomassini, University of Lausanne, Switzerland
+- Paweł Topa, AGH University of Science and Technology, Poland
+- Leen Torenvliet, Amsterdam, Netherlands
+- Hiroshi Umeo, Univ. of Osaka Electro-Communication, Japan
+- Giuseppe Vizzari, Università degli Studi di Milano-Bicocca, Italy
+- Gabriel Wainer, Carleton University, Canada
+- Jaroslaw Was, AGH University of Science and Technology, Poland
+- Thomas Worsch, Karlsruhe Institute of Technology, Germany
+- Radouane Yafia, Ibn Zohr University, Morocco
 
 <a name="steering"></a>
 <h3>Steering Committee</h3>

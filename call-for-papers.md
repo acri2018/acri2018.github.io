@@ -66,4 +66,5 @@ Accepted papers will appear in the proceedings published by Springer in the LNCS
 
 **Journal Special Issue**
 
-It is planned that extended version of some selected papers will be considered for publication in a special issue of Natural Computing.
+As for the previous editions, we are planning special issues of journals like Natural Computing (already confirmed) and Journal of Cellular Automata for the publication of selected papers from the
+conference and workshops.
