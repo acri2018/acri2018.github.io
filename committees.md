@@ -22,6 +22,7 @@ title: Committees
 - Stefania Bandini, University of Milano-Bicocca, Italy
 - Bernard De Baets, Ghent University, Belgium
 - Pedro de Oliveira, Universidade Presbiteriana Mackenzie, Brazil
+- Alberto Dennunzio, University of Milano-Bicocca, Italy
 - Andreas Deutsch, TU Dresden, Germany
 - Salvatore Di Gregorio, University of Calabria, Italy
 - Witold Dzwinel, AGH University of Science and Technology, Poland
