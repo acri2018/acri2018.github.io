@@ -35,7 +35,9 @@ title: Committees
 - Martin Kutrib, Institut für Informatik, Universität Giessen, Germany
 - Anna T. Lawniczak, University of Guelph, Canada
 - Laurent Lefevre, LCIS, Univ. Grenoble Alpes, France
+- Luca Manzoni, University of Milano-Bicocca, Italy
 - Sara Manzoni, University of Milano-Bicocca, Italy
+- Luca Mariot, University of Milano-Bicocca, Italy
 - Genaro J. Martínez, National Polytechnic Institute, Mexico
 - Giancarlo Mauri, University of Milano-Bicocca, Italy
 - Angelo B Mingarelli, Carleton University, Canada
