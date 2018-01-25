@@ -1,4 +1,7 @@
 
+_25-01-2018_<br>
+Submission page open
+
 _23-01-2018_<br>
 Updated the list of PC members
 
