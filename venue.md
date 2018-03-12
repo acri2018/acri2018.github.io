@@ -13,6 +13,7 @@ area, Villa del Grumello is a reference point for culture, science and the
 business community.
 
 <img src="/assets/images/villa_grumello.jpg" width="600">
+
 <small>
 [Photo](https://www.flickr.com/photos/webratio/6256914572/in/photolist-awUjKd-awUjHs) of Villa del Grumello by [WebRatio Communications](https://www.flickr.com/photos/webratio/) - 
 [_some rights reserved_](https://www.flickr.com/photos/webratio/6256914572/in/photolist-awUjKd-awUjHs)

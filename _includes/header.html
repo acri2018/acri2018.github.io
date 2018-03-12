@@ -14,6 +14,11 @@
   {%else %}
   <a class="navbar-item is-tab" href="/call-for-papers">Call for Papers</a>
   {%endif %}
+  {%if page.path == "workshops.md" %}
+  <a class="navbar-item is-tab is-active" href="/workshops">Workshops</a>
+  {%else %}
+  <a class="navbar-item is-tab" href="/workshops">Workshops</a>
+  {%endif %}
   {%if page.path == "committees.md" %}
   <a class="navbar-item is-tab is-active" href="/committees">Committees</a>
   {%else %}
