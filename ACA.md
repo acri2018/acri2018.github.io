@@ -36,18 +36,18 @@ It is also planned that selected papers will be considered for publication in Sp
 They will contain refereed extended versions of selected papers presented at the ACA workshop.
 
 
-**Program Committee** (to be confirmed)
+**Program Committee**
 
 - Alberto Dennunzio (Chair) - Milano-Bicocca University, Italy
 - Nazim Fates  - INRIA Nancy-Grand Est, France
 - Enrico Formenti (Chair) - Nice Sophia Antipolis University, France
 - Maximilien Gadouleau - University of Durham, United Kingdom
-- Cristophe Guyeau  - France
+- Cristophe Guyeau  - University of Bourgogne Franche-Comté, France
 - Adrien Richard - CNRS and Nice Sophia Antipolis University, France
 
 
 **Important Dates**
 
-- Paper submission: March 29th, 2018
-- Notification of paper acceptance or rejection: May 3th, 2018
-- Final version of the paper for the proceedings: June 6th, 2018
+- Paper submission: April 6th, 2018
+- Notification of paper acceptance or rejection: May 11th, 2018
+- Final version of the paper for the proceedings: June 12th, 2018

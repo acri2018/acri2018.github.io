@@ -39,8 +39,8 @@ Jarosław Wąs, AGH University of Science and Technology (Poland)
 
 **Program Committee**
 
-- Cecile Appert-Rolland (Paris-Sud University, Orsay - France)  
 - Stefania Bandini (University of Milano-Bicocca – Italy)
+- Mohcine Chraibi (Jülich Supercomputing Centre – Jülich, Germany)
 - Luca Crociani (University of Milano-Bicocca, Italy)
 - Ioakeim Georgoudas (Democritus University of Thrace – Greece)
 - Tomasz M. Gwizdalla (University of Lodz - Poland)

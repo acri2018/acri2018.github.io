@@ -34,18 +34,16 @@ theoretical or applied interest include, but are not limited to the following:
 
 **Program Committee**
 
-- Cecile Appert-Rolland (Orsay, France)
-- Stefania Bandini (University of Milano-Bicocca,Italy) 
-- Martin Evans (Edinburgh, UK) 
-- Henryk Fuks (Brock University, CA) 
-- Rui Jiang (University of Science and technology of China, China) 
 - Sven Maerivoet (Transport and Mobility Leuven, Belgium) 
+- Akiyasu Tomoeda (Musashino University, Japan) 
+- Antoine Tordeux (Juelich, Germany) 
+- Martin Treiber (Dresden, Germany)
+- Peter Wagner (DLR Berlin, Germany)
 - Shin-ichi Tadaki (Saga University, Japan) 
 - Tetsuji Tokihiro (The University of Tokyo, Japan) 
-- Akiyasu Tomoeda (Meiji University, Japan) 
-- Antoine Tordeux (Juelich, Germany) 
-- Martin Treiber (Dresden, Germany) 
-- Peter Wagner (DLR Berlin, Germany) 
+- Stefania Bandini (University of Milano-Bicocca,Italy) 
 - Daichi Yanagisawa (The University of Tokyo, Japan)	
+- Rui Jiang (University of Science and technology of China, China) 
+- Jun Sato (The University of Tokyo, Japan)
 
 
