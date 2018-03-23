@@ -42,7 +42,7 @@ They will contain refereed extended versions of selected papers presented at the
 - Nazim Fates  - INRIA Nancy-Grand Est, France
 - Enrico Formenti (Chair) - Nice Sophia Antipolis University, France
 - Maximilien Gadouleau - University of Durham, United Kingdom
-- Cristophe Guyeau  - University of Bourgogne Franche-Comté, France
+- Cristophe Guyeux  - University of Bourgogne Franche-Comté, France
 - Adrien Richard - CNRS and Nice Sophia Antipolis University, France
 
 
