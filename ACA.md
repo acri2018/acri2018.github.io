@@ -21,7 +21,7 @@ Topics include, but are not limited to the following aspects of Asynchronous Cel
 - models of phenomena from biology, chemistry, physics, engineering and other fields
 - applications of  asynchronous and probabilistic automata (genetic regulation networks, network coding, load balancing, etc)
 
-Both theoretical and applicative contributions are most welcome.
+Both theoretical and applicative contributions are welcome.
 
 **Submissions and Publications**
 
