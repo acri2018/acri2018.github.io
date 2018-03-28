@@ -19,7 +19,9 @@ Topics of the workshop include, but are not limited to the following:
 
 **Submissions and Publication**
 
-Authors are invited to submit papers complying with the Springer-Verlag format and the maximum length of 10 pages. Formatting style files and further guidelines can be found in the relevant ACRI 2018 site page. Submissions will be managed through the Easychair electronic submissions management system. Accepted papers will be published by Springer-Verlag in a volume of the Lecture Notes in Computer Science (LNCS) series in a section of the ACRI 2018 proceedings. This volume will be available by the time of the workshop. We plan to publish a selection of revised and extended papers presented during the workshop in a special issue of a relevant international journal.
+Authors are invited to submit papers complying with the Springer-Verlag format and the maximum length of 10 pages. Formatting style files and further guidelines can be found in the relevant ACRI 2018 site page. Submissions should be performed via easychair [https://easychair.org/conferences/?conf=cca20180](https://easychair.org/conferences/?conf=cca20180).
+
+Accepted papers will be published by Springer-Verlag in a volume of the Lecture Notes in Computer Science (LNCS) series in a section of the ACRI 2018 proceedings. This volume will be available by the time of the workshop. We plan to publish a selection of revised and extended papers presented during the workshop in a special issue of a relevant international journal.
 
 
 **Important Dates**

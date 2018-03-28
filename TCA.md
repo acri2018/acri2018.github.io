@@ -27,6 +27,8 @@ theoretical or applied interest include, but are not limited to the following:
 - traffic networks
 - related systems (biological transport, granular flow etc.)
 
+Submissions should be perfomed via easychair [https://easychair.org/conferences/?conf=tca2018](https://easychair.org/conferences/?conf=tca2018)
+
 **Workshop Chairs**
 
 - Katsuhiro Nishinari, Research Center for Advanced Science and Technology, The University of Tokyo (Japan)

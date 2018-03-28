@@ -10,3 +10,8 @@ Authors are invited to submit papers of no more than **10 pages** via the EasyCh
 Submissions should contain original research that has not previously been published. Concurrent submissions to other conferences/journals are not allowed. Supplementary material that exceeds the above mentioned page limits may be included as an appendix and will be considered at the committee's discretion (note that appendices will not be published in the proceedings).
 
 Submission must be formatted in LaTeX using the [LNCS format](http://www.springer.com/computer/lncs/lncs+authors) and submitted in Portable Document Format (PDF). Papers authored or co-authored by PC members are also welcome.
+
+For submission to the ACRI workshops please see the workshop pages:
+- [Asynchronous Cellular Automata](/ACA)
+- [Crowds and Cellular Automata](/CCA)
+- [Traffic and Cellular Automata](/TCA)
