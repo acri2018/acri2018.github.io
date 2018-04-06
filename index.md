@@ -4,7 +4,14 @@ title: ACRI 2018
 subtitle: 13<sup>th</sup> International Conference<br>Cellular Automata for Research and Industry <div class="small-padding-elem"></div> <div class="is-size-4"> 17-21 September 2018 </div>
 ---
 
-Deadline for paper submissions extended to **6 April 2018**.
+Deadline for paper submissions extended to **13 April 2018**.
+
+Deadlines for the workshops extended:
+- [Asynchronous Cellular Automata](/ACA): **23 April 2018**
+- [Crowds and Cellular Automata](/CCA): **16 April 2018**
+- [Traffic and Cellular Automata](/TCA): **16 April 2018**
+
+To know about the aim of the workshops and the submission process please consult the specific workshop pages.
 
 The 13<sup>th</sup> International Conference "Cellular Automata for Research and Industry" will take place from 17 to 21 September 2018 in Como (Italy) and it is organized by the Dipartimento di Informatica, Sistemistica e Comunicazione of the Università degli Studi di Milano-Bicocca.
 

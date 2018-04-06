@@ -26,7 +26,7 @@ Accepted papers will be published by Springer-Verlag in a volume of the Lecture 
 
 **Important Dates**
 
-- Submission deadline: April 6, 2018
+- Submission deadline: ~~April 6, 2018~~ April 16, 2018
 - Notification of acceptance: May 11, 2018 
 - Final versions: June 12, 2018
 - ACRI 2018: September 17-21, 2018
