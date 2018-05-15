@@ -49,5 +49,5 @@ They will contain refereed extended versions of selected papers presented at the
 **Important Dates**
 
 - Paper submission: ~~April 6th, 2018~~ April 23th, 2018
-- Notification of paper acceptance or rejection: May 11th, 2018
+- Notification of paper acceptance or rejection: ~~May 11th~~, May 24th, 2018
 - Final version of the paper for the proceedings: June 12th, 2018
