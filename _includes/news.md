@@ -1,4 +1,7 @@
 
+_22-07-2018_<br>
+Information on registration fees now available
+
 _06-04-2018_<br>
 Main conference and workshop deadline extended
 
