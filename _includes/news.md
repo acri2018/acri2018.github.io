@@ -1,4 +1,7 @@
 
+_08-07-2018_<br>
+Information on the _Intensive School on Cellular Automata_
+
 _22-07-2018_<br>
 Information on registration fees now available
 
