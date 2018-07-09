@@ -6,7 +6,7 @@ subtitle: B. Chopard & J.L. Falcone <div class="small-padding-elem"></div> <div 
 
 **School Program**
 
-Cellular automata (CA) can be viewed as a mathematical abstraction of the physical world in which all quantities are of discrete nature. Due to its simplicity, CA turn out to a be very interesting approach to model complex systems in which a macroscopic collective behavior emerges out of the interaction of many simple elements. This tutorial will indroduce this approach in a pedagogical way through many examples illustrating the essence of CA modeling.
+Cellular automata (CA) can be viewed as a mathematical abstraction of the physical world in which all quantities are of discrete nature. Due to its simplicity, CA turn out to a be very interesting approach to model complex systems in which a macroscopic collective behavior emerges out of the interaction of many simple elements. This school will indroduce this approach in a pedagogical way through many examples illustrating the essence of CA modeling.
 The program is the following:
 
 - Introduction: What are CA’s?: computational model, discrete dynamical system, abstraction of physical and natural systems
