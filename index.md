@@ -1,12 +1,19 @@
 ---
 layout: page
-title: ACRI 2018
-subtitle: 13<sup>th</sup> International Conference and School<br>Cellular Automata for Research and Industry <div class="small-padding-elem"></div> <div class="is-size-4"> 17-21 September 2018 </div>
 ---
 
-The 13<sup>th</sup> International Conference and School "Cellular Automata for Research and Industry" will take place from 17 to 21 September 2018 in Como (Italy) and it is organized by the Dipartimento di Informatica, Sistemistica e Comunicazione of the Università degli Studi di Milano-Bicocca.
+The 13<sup>th</sup> International Conference and School "Cellular Automata for Research and Industry" will take place from 17 to 21 September 2018 in Como (Italy) and it is organized by the Department of Informatics, Systems and Communication of the Università degli Studi di Milano-Bicocca.
 
 Since its first edition in 1994, the ACRI conference focused on challenging problems and new research on Cellular Automata (CA). Its primary goal is to offer both scientists and engineers in academies and industries an opportunity to enforce international collaborations on Cellular Automata and express  their views on current trends, challenges, and state-of-the art solutions to various problems in several scientific fields: biology, computer science, chemistry, ecology, economy, engineering, geology, medicine, physics, sociology, etc.
+
+_Chairs_
+
+- Giancarlo Mauri, University of Milano-Bicocca, Italy (chair)
+- Samira El Yacoubi, University of Perpignan, France (co-chair)
+
+_Chair of Workshops_
+
+- Stefania Bandini, University of Milano-Bicocca, Italy
 
 **Previous Editions**
 

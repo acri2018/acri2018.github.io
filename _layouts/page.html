@@ -4,14 +4,15 @@ layout: default
 <div class="columns is-centered">
   <div class="column is-half">
     <div class="hero is-info is-bold">
-      <div class="hero-body">
-	{%if page.title %}
-	<h1 class="title"> {{page.title}} </h1>
-	{%endif %}
+      <img src="/assets/images/banner-small.jpg">
+      {%if page.title %}
+      <Div class="hero-body">
+	<h1 class="title centered"> {{page.title}} </h1>
 	{%if page.subtitle %}
-	<h4 class="subtitle"> {{page.subtitle}} </h4>
+	<h4 class="subtitle centered"> {{page.subtitle}} </h4>
 	{%endif %}
       </div>
+      {%endif %}
     </div>
   </div>
   <div class="column is-one-quarter">
