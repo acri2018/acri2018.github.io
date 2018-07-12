@@ -14,7 +14,9 @@ Regitration Fees
 
 The **full** registration includes the partecipation to all events of ACRI 2018, including the workshops and the school. The **student** registration is equivalent to the full one, but it is available only to students.
 
-The **school** and **workshops** registrations allow to attend only the [intensive school on CA](/school/) and the ACRI [workshops](/workshops/), respectively.
+The **workshops** registrations allows to attend only the ACRI [workshops](/workshops/).
+
+The **school** registration allows to follow the [intensive school on CA](/school/).
 
 Registration Procedure
 ----------------------
