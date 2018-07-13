@@ -9,6 +9,11 @@
   {%else %}
   <a class="navbar-item is-tab" href="/important-dates">Important Dates</a>
   {%endif %}
+  {%if page.path == "conference.md" %}
+  <a class="navbar-item is-tab is-active" href="/conference">Conference</a>
+  {%else %}
+  <a class="navbar-item is-tab" href="/conference">Conference</a>
+  {%endif %}
   {%if page.path == "workshops.md" %}
   <a class="navbar-item is-tab is-active" href="/workshops">Workshops</a>
   {%else %}
