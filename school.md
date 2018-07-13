@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intensive School on Cellular Automata
-subtitle: B. Chopard & J.L. Falcone <div class="small-padding-elem"></div> <div class="is-size-4"> 17 September 2018 </div>
+subtitle: Bastien Chopard & Jean-Luc Falcone <div class="small-padding-elem"></div> <div class="is-size-4"> 17 September 2018 </div>
 ---
 
 **School Program**
