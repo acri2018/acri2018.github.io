@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intensive School on Cellular Automata
-subtitle: Bastien Chopard & Jean-Luc Falcone <div class="small-padding-elem"></div> <div class="is-size-4"> 17 September 2018 </div>
+subtitle: Bastien Chopard & Jean-Luc Falcone <div class="is-size-6">University of Geneva</div> <div class="small-padding-elem"></div> <div class="is-size-4"> 17 September 2018 </div>
 ---
 
 **School Program**
@@ -16,7 +16,7 @@ The program is the following:
 <br>traffic models, lezard, homostatis,...
 - Understanding complex systems through CAs: life, Langton ants, Wol- fram complexity classes...
 - Lattice gases: CA fluids, diffusion models, exact computation and re- versibility
-- Extension: lattice Boltzmann, multi-agent: in-silico modeling at a meso- scopic level.
+- Extension: lattice Boltzmann, multi-agent: in-silico modeling at a mesoscopic level.
 - Exercises: will be inserted during the presentation
 
 ***Additional Information***: For PhD students from the University of Milano-Bicocca the school is valid for one course credit.
