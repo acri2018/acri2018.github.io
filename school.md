@@ -28,8 +28,10 @@ The school will continue with the [workshops](/workshops) to introduce the stude
 **Bastien Chopard**
 
 <div class="columns">
-  <div class="column">
-	<img src="/assets/images/chopard.jpg">
+  <div class="column is-narrow">
+	<div class="box" style="width: 300px;">
+		<img src="/assets/images/chopard.jpg">
+	</div>
   </div>
   <div class="column">
 	Bastien Chopard is full professor at the University of Geneva, and group leader in the Swiss Institute of Bioinformatics. He earned his PhD in theoretical physics from the University of Geneva in 1988. He then spent two years as a postdoc in the laboratory for computer science at MIT (Cambridge, USA), and one year in the Research Center, Juelich (Germany) before joining the computer science department at University of Geneva. His main research interests is the modeling and simulation of complex systems. He is internationally recognized for his work on Cellular Automata and Lattice Boltzmann methods. He wrote more than 200 scientific articles, presenting interdisciplinary research in various fields, such as physics, social and environmental science, bio-medical applications, numerical and optimization methods, parallel computing and multiscale modeling.
