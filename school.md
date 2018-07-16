@@ -20,3 +20,5 @@ The program is the following:
 - Exercises: will be inserted during the presentation
 
 ***Additional Information***: For PhD students from the University of Milano-Bicocca the school is valid for one course credit.
+
+The school will continue with the [workshops](/workshops) to introduce the students to recent research results on various aspects of CA.
