@@ -21,8 +21,25 @@ The **school** registration allows to follow the [intensive school on CA](/schoo
 Registration Procedure
 ----------------------
 
-Information about the registration procedure will be made available soon.
+Registration can be performed via the following link:
 
+**[Registration Form](http://fondazionealessandrovolta.org/acri-2018/)**
+
+The payment can be performed via credit card or bank transfer.
+
+Accommodation
+-------------
+
+Single or double-room occupancy in 3-star hotels are scheduled for accommodation. Specific requirements about room accommodation (single-room request or double occupancy with other registered participants) must be notified via email to Mrs. Mariagiovanna Falasconi: [mariagiovanna.falasconi@fondazionealessandrovolta.it](mailto:mariagiovanna.falasconi@fondazionealessandrovolta.it).
+
+
+For the hotel reservation, please fill the following form:
+
+**[Accommodation Form](/assets/pdf/accommodationACRI2018.pdf)**
+
+and send it Mrs. Mariagiovanna Falasconi at the following email address:  [mariagiovanna.falasconi@fondazionealessandrovolta.it](mariagiovanna.falasconi@fondazionealessandrovolta.it)
+
+The support for accommodations at agreed prices is guaranteed only until August 1, 2018.
 
 VISA Information
 ----------------
