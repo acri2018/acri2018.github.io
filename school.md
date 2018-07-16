@@ -22,3 +22,21 @@ The program is the following:
 ***Additional Information***: For PhD students from the University of Milano-Bicocca the school is valid for one course credit.
 
 The school will continue with the [workshops](/workshops) to introduce the students to recent research results on various aspects of CA.
+
+<h4>Instructors</h4>
+
+**Bastien Chopard**
+
+<div class="columns">
+  <div class="column">
+	<img src="/assets/images/chopard.jpg">
+  </div>
+  <div class="column">
+	Bastien Chopard is full professor at the University of Geneva, and group leader in the Swiss Institute of Bioinformatics. He earned his PhD in theoretical physics from the University of Geneva in 1988. He then spent two years as a postdoc in the laboratory for computer science at MIT (Cambridge, USA), and one year in the Research Center, Juelich (Germany) before joining the computer science department at University of Geneva. His main research interests is the modeling and simulation of complex systems. He is internationally recognized for his work on Cellular Automata and Lattice Boltzmann methods. He wrote more than 200 scientific articles, presenting interdisciplinary research in various fields, such as physics, social and environmental science, bio-medical applications, numerical and optimization methods, parallel computing and multiscale modeling.
+  </div>
+</div>
+
+
+**Jean-Luca Falcone**
+
+Jean-Luc Falcone is a senior research associate and lecturer at the University of Geneva. After studying biology, he obtained in 2008 an interdisciplinary PhD in biology and computer science. Since 2010, he holds the position of HPC application analyst at CADMOS (Center for the Advanced Modelling of Science). His research interests include bioinformatics, multi-science models, multi-scale systems and parallel computing.
