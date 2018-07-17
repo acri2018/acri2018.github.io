@@ -30,4 +30,4 @@ _Chair of Workshops_
 - 2000 in Karlsruhe, Germany. [<i class="fa fa-book" aria-hidden="true"></i>](http://www.springer.com/in/book/9781852333881)
 - 1998 in Trieste, Italy. [<i class="fa fa-book" aria-hidden="true"></i>](http://www.springer.com/in/book/9781852330484)
 - 1996 in Milan, Italy. [<i class="fa fa-book" aria-hidden="true"></i>](http://www.springer.com/us/book/9783540760917)
-- 1994 in Rende, Italy.
+- 1994 in Rende, Italy. [<i class="fa fa-book" aria-hidden="true"></i>](http://staff.icar.cnr.it/spezzano/acri94.html)
