@@ -10,10 +10,10 @@ Cellular automata (CA) can be viewed as a mathematical abstraction of the physic
 The program is the following:
 
 - Introduction: What are CA’s?: computational model, discrete dynamical system, abstraction of physical and natural systems
-- Definition: Parity rule. Neighborhood, stochastic CA, non-uniform CA, asymchronous CA. Implementation: lookup table, on the fly computation. Number of possible universe
-- Historical notes: from von-Neuman to Langton self-reproduction CA
+- Definition: Parity rule. Neighborhood, stochastic CA, non-uniform CA, asynchronous CA. Implementation: lookup table, on the fly computation. Number of possible universe
+- Historical notes: from von-Neumann to Langton self-reproduction CA
 - Modeling of physical system: create a fititious world where conservation laws and symmetries are preserved. <br>Examples: snowflakes, excitable media,... 
-<br>traffic models, lezard, homostatis,...
+<br>traffic models, homostatis,...
 - Understanding complex systems through CAs: life, Langton ants, Wol- fram complexity classes...
 - Lattice gases: CA fluids, diffusion models, exact computation and re- versibility
 - Extension: lattice Boltzmann, multi-agent: in-silico modeling at a mesoscopic level.
