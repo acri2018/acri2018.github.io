@@ -41,4 +41,13 @@ The school will continue with the [workshops](/workshops) to introduce the stude
 
 **Jean-Luc Falcone**
 
-Jean-Luc Falcone is a senior research associate and lecturer at the University of Geneva. After studying biology, he obtained in 2008 an interdisciplinary PhD in biology and computer science. Since 2010, he holds the position of HPC application analyst at CADMOS (Center for the Advanced Modelling of Science). His research interests include bioinformatics, multi-science models, multi-scale systems and parallel computing.
+<div class="columns">
+  <div class="column is-narrow">
+	<div class="box" style="width: 200px;">
+		<img src="/assets/images/falcone.jpg">
+	</div>
+  </div>
+  <div class="column">
+  Jean-Luc Falcone is a senior research associate and lecturer at the University of Geneva. After studying biology, he obtained in 2008 an interdisciplinary PhD in biology and computer science. Since 2010, he holds the position of HPC application analyst at CADMOS (Center for the Advanced Modelling of Science). His research interests include bioinformatics, multi-science models, multi-scale systems and parallel computing.
+  </div>
+</div>
