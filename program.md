@@ -26,9 +26,9 @@ title: Preliminary Program
 | 10:20 – 10:50 | Coffee break                                             |
 | 10:50 – 12:30 | [Session 1: Biological Systems Modeling](#main-1)        |
 | 12:30 – 14:00 | Lunch                                                    |
-| 14:00 – 15:15 | [Session 2: Simulation and other Applications of CA I](#main-2)  |
+| 14:00 – 15:15 | [Session 2: Pedestrian and Traffic Dynamics I](#main-2)  |
 | 15:15 – 15:40 | Coffee break                                             |
-| 15:40 – 16:30 | [Session 3: Simulation and other Applications of CA II](#main-3) |
+| 15:40 – 16:30 | [Session 3: Pedestrian and Traffic Dynamics II](#main-3) |
 | 16:30 – 17:30 | [Poster Session](#poster)                                |
 
 **Thursday, 20 September**
@@ -39,9 +39,9 @@ title: Preliminary Program
 | 10:25 – 10:50 | Coffee break                                                     |
 | 10:50 – 12:30 | [Session 5: Theory and Cryptography II](#main-5)                 |
 | 12:30 – 14:00 | Lunch                                                            |
-| 14:00 – 15:15 | [Session 6: Pedestrian and Traffic Dynamics I](#main-6)  |
+| 14:00 – 15:15 | [Session 6: Simulation and other Applications of CA I](#main-6)  |
 | 15:15 – 15:40 | Coffee break                                                     |
-| 15:40 – 16:30 | [Session 7: Pedestrian and Traffic Dynamics II](#main-7) |
+| 15:40 – 16:30 | [Session 7: Simulation and other Applications of CA II](#main-7) |
 
 **Friday, 21 September**
 
@@ -119,20 +119,20 @@ title: Preliminary Program
 
 **Session 2**
 
-|               |                                                                                                                                                                                                                                 |
-|--------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14:00 – 14:25 | _I. Abdennour, M. Ouardouz, A. Bernoussi_ <br> Modeling of electrical and thermal behaviors of photovoltaic panels using cellular automata approach                                                                             |
-| 14:25 – 14:50 | _J. García-Duro, L. Manzoni, I. Arias, M. Casal, O. Cruz, X. Manoel Pesqueira, A. Muñoz, R. Álvarez, L. Mariot, S. Bandini, O. Reyes_ <br> Hidden costs of modelling Post-Fire Plant Community Assembly using Cellular Automata |
-| 14:50 – 15:15 | _M. Madikas, M.-A. Tsompanas, N. Dourvas, G. Ch. Sirakoulis, J. Jones, A. Adamatzky_ <br> Hardware implementation of a biomimicking hybrid CA                                                                                   |
+|               |                                                                                                                                        |
+|--------------:|:---------------------------------------------------------------------------------------------------------------------------------------|
+| 14:00 – 14:25 | _M. Chraibi, B. Steffen_ <br> The Automatic Generation of an Efficient Floor Field for CA Simulations in Crowd Management              |
+| 14:25 – 14:50 | _T. Gwizdałła, J. Wojtowicz, I. Wadowski, B. Dyrda_ <br> Traffic on small grids and the ramp problem                                   |
+| 14:50 – 15:15 | _E. Kirik, T. Vitova, A. Malyshev, E. Popel_ <br> The impact of different angle paths on discrete-continuous pedestrian dynamics model |
 
 <a name="main-3"></a>
 
 **Session 3**
 
-|               |                                                                                                                                |
-|--------------:|:-------------------------------------------------------------------------------------------------------------------------------|
-| 15:40 – 16:05 | _J. Stępień, J. Stafiej_ <br> Potential Oscillations in Cellular Automaton Based Model for Passivation of Metal Surface        |
-| 16:05 – 16:30 | _A. Carrieri, L. Crociani, G. Vizzari, S. Bandini_ <br> Motion Detection and Characterization in Videos with Cellular Automata |
+|               |                                                                                                                 |
+|--------------:|:----------------------------------------------------------------------------------------------------------------|
+| 15:40 – 16:05 | _K. Małecki_ <br> Two-way road cellular automaton model with loading/unloading bays for traffic flow simulation |
+| 16:05 – 16:30 | _P. Wagner, J. Rummel_ <br> A microscopic CA model of traffic flow?                                             |
 
 <a name="main-4"></a>
 
@@ -160,21 +160,22 @@ title: Preliminary Program
 
 **Session 6**
 
-|               |                                                                                                                                       |
-|--------------:|:--------------------------------------------------------------------------------------------------------------------------------------|
-| 14:00 – 14:25 | _M. Chraibi, B. Steffen_ <br> The Automatic Generation of an Efficient Floor Field for CA Simulations in Crowd Management             |
-| 14:25 – 14:50 | _T. Gwizdałła, J. Wojtowicz, I. Wadowski, B. Dyrda_ <br> Traffic on small grids and the ramp problem                                  |
-| 14:50 – 15:15 | _E. Kirik, T. Vitova, A. Malyshev, E. Popel_ <br> The impact of different angle paths on discrete-continuous pedestrian dynamics model |
+|               |                                                                                                                                                                                                                                 |
+|--------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14:00 – 14:25 | _I. Abdennour, M. Ouardouz, A. Bernoussi_ <br> Modeling of electrical and thermal behaviors of photovoltaic panels using cellular automata approach                                                                             |
+| 14:25 – 14:50 | _J. García-Duro, L. Manzoni, I. Arias, M. Casal, O. Cruz, X. Manoel Pesqueira, A. Muñoz, R. Álvarez, L. Mariot, S. Bandini, O. Reyes_ <br> Hidden costs of modelling Post-Fire Plant Community Assembly using Cellular Automata |
+| 14:50 – 15:15 | _M. Madikas, M.-A. Tsompanas, N. Dourvas, G. Ch. Sirakoulis, J. Jones, A. Adamatzky_ <br> Hardware implementation of a biomimicking hybrid CA                                                                                   |
+
 
 
 <a name="main-7"></a>
 
 **Session 7**
 
-|               |                                                                                                                 |
-|--------------:|:----------------------------------------------------------------------------------------------------------------|
-| 15:40 – 16:05 | _K. Małecki_ <br> Two-way road cellular automaton model with loading/unloading bays for traffic flow simulation |
-| 16:05 – 16:30 | _P. Wagner, J. Rummel_ <br> A microscopic CA model of traffic flow?                                             |
+|               |                                                                                                                                |
+|--------------:|:-------------------------------------------------------------------------------------------------------------------------------|
+| 15:40 – 16:05 | _J. Stępień, J. Stafiej_ <br> Potential Oscillations in Cellular Automaton Based Model for Passivation of Metal Surface        |
+| 16:05 – 16:30 | _A. Carrieri, L. Crociani, G. Vizzari, S. Bandini_ <br> Motion Detection and Characterization in Videos with Cellular Automata |
 
 <a name="main-8"></a>
 
