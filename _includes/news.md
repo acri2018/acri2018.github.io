@@ -1,4 +1,7 @@
 
+_28-08-2018_<br>
+The conference [program](/program/) is now available
+
 _08-07-2018_<br>
 Information on the _Intensive School on Cellular Automata_
 

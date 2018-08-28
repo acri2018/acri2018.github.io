@@ -8,6 +8,8 @@ The 13<sup>th</sup> International Conference and School "Cellular Automata for R
 - [The workshops](/workshops)
 - [The school](/school)
 
+The preliminary [conference and workshops program](/program/) is now available.
+
 _Chairs_
 
 - Giancarlo Mauri, University of Milano-Bicocca, Italy (chair)

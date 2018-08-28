@@ -24,6 +24,11 @@
   {%else %}
   <a class="navbar-item is-tab" href="/school">School</a>
   {%endif %}
+  {%if page.path == "program.md" %}
+  <a class="navbar-item is-tab is-active" href="/program">Program</a>
+  {%else %}
+  <a class="navbar-item is-tab" href="/program">Program</a>
+  {%endif %}
   {%if page.path == "committees.md" %}
   <a class="navbar-item is-tab is-active" href="/committees">Committees</a>
   {%else %}
