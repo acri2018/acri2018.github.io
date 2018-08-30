@@ -23,6 +23,29 @@ The program is the following:
 
 The school will continue with the [workshops](/workshops) to introduce the students to recent research results on various aspects of CA.
 
+<a name="schedule"></a>
+<div class="small-padding-elem"></div>
+
+**Detailed Schedule**
+
+|             |                                                                                                                                                                     |
+|------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:15-09:30 | _Theory_ <br> CA: why and what?                                                                                                                                     |
+| 09:30-10:15 | _Exercise_ <br> installing the software and implementing the parity rule. Explore some behaviors (asynchronous/synchronous).                                        |
+| 10:15-10:30 | _Theory_ <br> Formal definition of a CA, neighborhoods, boundary conditions, etc                                                                                    |
+| 10:30-11:00 | Coffee Break                                                                                                                                                        |
+| 11:00-11:45 | Theory: Historical notes, von Newman & Langton CA; CA as a modeling tool: snowflakes; other examples (drosophila, greenberg-hastins, forest fire, homeostastis,...) |
+| 11:45-12:30 | _Exercises_ <br>  Greenberg-Hasting, forest fire, etc                                                                                                               |
+| 12:30-14:00 | Lunch                                                                                                                                                               |
+| 14:00-14:30 | _Theory_ <br> Complex systems (game of life, Langton’s ant, parity, universal computer, Wolfram’s rules).                                                           |
+| 14:30-15:00 | _Exercise_ <br> Langton’s Ants                                                                                                                                      |
+| 15:00-15:15 | _Theory_ <br> Discussion: parity, universal computer, intractability                                                                                                |
+| 15:15-15:45 | _Theory_ <br> CA traffic models                                                                                                                                     |
+| 15:45-16:15 | _Exercise_ <br> traffic                                                                                                                                             |
+| 16:15-16:45 | Coffee Break                                                                                                                                                        |
+| 16:45-17:30 | _Theory/Exercises_ <br> Lattice Gas Automata and Lattice Boltzmann models.                                                                                          |
+| 17:30-17:45 | Conclusion                                                                                                                                                          |
+
 <h4>Instructors</h4>
 
 **Bastien Chopard**

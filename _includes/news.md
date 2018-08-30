@@ -1,4 +1,7 @@
 
+_30-08-2018_<br>
+The school [program](/school#schedule) is now available
+
 _28-08-2018_<br>
 The conference [program](/program/) is now available
 

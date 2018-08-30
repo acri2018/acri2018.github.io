@@ -3,6 +3,8 @@ layout: page
 title: Preliminary Program
 ---
 
+For the [school program](/school#schedule) see the [here](/school#schedule).
+
 **Tuesday, 18 September**
 
 |               |                                                                             |
