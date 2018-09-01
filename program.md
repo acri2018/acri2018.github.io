@@ -187,7 +187,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 |--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 10:50 – 11:15 | _A. Daly, W. Quaghebeur, T. Depraetere, J. Baetens, B. De Baets_ <br> Coexistence in three-species cyclic competition: lattice-based versus lattice-free individual-based models |
 | 11:15 – 11:40 | _J. Gasior, F. Seredynski, R. Hoffmann_ <br> Towards Self-organizing Sensor Networks: Game-Theoretic epsilon-Learning Automata-based Approach                                    |
-| 11:40 – 12:05 | _J. Orzechowska, D. Fordon, T. Gwizdałła_ <br> Size effect in Cellular Automata based disease spreading model                                                                    |
+| 11:40 – 12:05 | _C. Tinoco, G. Oliveira_ <br> Pheromone interactions in a cellular automata-based model for surveillance robots                                                                  |
 | 12:05 – 12:30 | _I. Varga, A. Némethy, G. Kocsis_ <br> Agent-based simulation of information spreading in VANET                                                                                  |
 
 <a name="main-9"></a>
@@ -215,6 +215,6 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 |                                                                                                                                                       |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------|
 | _R. Hoffmann, D. Désérable, F. Seredynski_ <br> Stability Levels and Termination in Evolved CA Agents for the Black--Pattern Task                     |
-| _C. Tinoco, G. Oliveira_ <br> Pheromone interactions in a cellular automata-based model for surveillance robots                                       |
+| _J. Orzechowska, D. Fordon, T. Gwizdałła_ <br> Size effect in Cellular Automata based disease spreading modelaa                                       |
 | _S. Adak, S. Mukherjee, S. Das_ <br> Do there exist Non-linear Maximal Length Cellular Automata? A Study                                              |
 | _A. T. Lawniczak, F. Yu_ <br> Analysis of Rates of Agents’ Decisions in Learning to Cross a Highway in Populations with Risk Takers and Risk Avoiders |
