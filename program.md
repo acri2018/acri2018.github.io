@@ -47,16 +47,16 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Friday, 21 September**
 
-|               |                                                        |
-|--------------:|:-------------------------------------------------------|
-|  9:20 – 10:20 | Invited Talk 2 (Raul Rechtman)                         |
-| 10:20 – 10:50 | Coffee break                                           |
-| 10:50 – 12:30 | [Session 8: Multi-Agent Systems](#main-8)              |
-| 12:30 – 14:00 | Lunch                                                  |
-| 14:00 – 14:50 | [Session 9: Synchronization and Control I](#main-9)    |
-| 14:50 – 15:20 | Coffee break                                           |
-| 15:20 – 16:10 | [Session 10: Synchronization and Control II](#main-10) |
-| 16:10 – 16:20 | ACRI 2018 closing                                      |
+|               |                                                                              |
+|--------------:|:-----------------------------------------------------------------------------|
+|  9:20 – 10:20 | Invited Talk 2 (Raul Rechtman) <br> _Phase transitions of cellular automata_ |
+| 10:20 – 10:50 | Coffee break                                                                 |
+| 10:50 – 12:30 | [Session 8: Multi-Agent Systems](#main-8)                                    |
+| 12:30 – 14:00 | Lunch                                                                        |
+| 14:00 – 14:50 | [Session 9: Synchronization and Control I](#main-9)                          |
+| 14:50 – 15:20 | Coffee break                                                                 |
+| 15:20 – 16:10 | [Session 10: Synchronization and Control II](#main-10)                       |
+| 16:10 – 16:20 | ACRI 2018 closing                                                            |
 
 
 **Time Slots**

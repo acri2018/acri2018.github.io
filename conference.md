@@ -17,6 +17,8 @@ Invited Speakers
 Instituto de Energias Renovables<br>
 Universidad Nacional Autónoma de México<br>
 
+_Phase transitions of cellular automata_
+
 **Andreas Deutsch**<br>
 Centre for Information Services and High Performance Computing (ZIH)<br>
 Technische Universität Dresden <br>
