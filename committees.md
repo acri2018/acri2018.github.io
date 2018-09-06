@@ -74,7 +74,8 @@ title: Committees
 
 - Giancarlo Mauri (_chair_)
 - Stefania Bandini 
-- Alberto Dennunzio 
+- Alberto Dennunzio
+- Andrea Gorrini
 - Luca Manzoni
 - Luca Mariot
 - Giuseppe Vizzari
