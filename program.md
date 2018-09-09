@@ -28,7 +28,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 | 10:20 – 10:50 | Coffee break                                                                                                                                                                           |
 | 10:50 – 12:30 | [Session 1: Biological Systems Modeling](#main-1)                                                                                                                                      |
 | 12:30 – 14:00 | Lunch                                                                                                                                                                                  |
-| 14:00 – 15:15 | [Session 2: Pedestrian and Traffic Dynamics I](#main-2)                                                                                                                                |
+| 14:00 – 15:15 | [Session 2: Theory and Cryptography I](#main-2)                                                                                                                                        |
 | 15:15 – 15:40 | Coffee break                                                                                                                                                                           |
 | 15:40 – 16:30 | [Session 3: Pedestrian and Traffic Dynamics II](#main-3)                                                                                                                               |
 | 16:30 – 17:30 | [Poster Session](#poster)                                                                                                                                                              |
@@ -37,7 +37,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 |               |                                                                  |
 |--------------:|:-----------------------------------------------------------------|
-|  9:00 – 10:20 | [Session 4: Theory and Cryptography I](#main-4)                  |
+|  9:00 – 10:20 | [Session 4: Pedestrian and Traffic Dynamics I](#main-4)          |
 | 10:25 – 10:50 | Coffee break                                                     |
 | 10:50 – 12:30 | [Session 5: Theory and Cryptography II](#main-5)                 |
 | 12:30 – 14:00 | Lunch                                                            |
@@ -121,11 +121,11 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 2**
 
-|               |                                                                                                                                        |
-|--------------:|:---------------------------------------------------------------------------------------------------------------------------------------|
-| 14:00 – 14:25 | _M. Chraibi, B. Steffen_ <br> The Automatic Generation of an Efficient Floor Field for CA Simulations in Crowd Management              |
-| 14:25 – 14:50 | _T. Gwizdałła, J. Wojtowicz, I. Wadowski, B. Dyrda_ <br> Traffic on small grids and the ramp problem                                   |
-| 14:50 – 15:15 | _E. Kirik, T. Vitova, A. Malyshev, E. Popel_ <br> The impact of different angle paths on discrete-continuous pedestrian dynamics model |
+|               |                                                                                                                                                                                    |
+|--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 14:00 – 14:25 | _A. Dennunzio, V. Dorigatti, E. Formenti, L. Manzoni, A. E. Porreca_ <br> Polynomial Equations over Finite, Discrete-Time Dynamical Systems                                        |
+| 14:25 – 14:50 | _S. Di Gregorio_ <br> The Representation Role for Basic Operations Embodied in Cellular Automata: a Suitability Example for Addition in Redundant Numeral Systems vs Standard Ones |
+| 14:50 – 15:15 | _I. Karafyllidis, G. Ch. Sirakoulis_ <br> Quantum Walks on Quantum Cellular Automata Lattices: Towards a new model for quantum computation                                         |
 
 <a name="main-3"></a>
 
@@ -140,11 +140,11 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 4**
 
-|              |                                                                                                                                                                                    |
-|-------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  9:00 – 9:25 | _A. Dennunzio, V. Dorigatti, E. Formenti, L. Manzoni, A. E. Porreca_ <br> Polynomial Equations over Finite, Discrete-Time Dynamical Systems                                        |
-|  9:25 – 9:50 | _S. Di Gregorio_ <br> The Representation Role for Basic Operations Embodied in Cellular Automata: a Suitability Example for Addition in Redundant Numeral Systems vs Standard Ones |
-| 9:50 – 10:15 | _I. Karafyllidis, G. Ch. Sirakoulis_ <br> Quantum Walks on Quantum Cellular Automata Lattices: Towards a new model for quantum computation                                         |
+|              |                                                                                                                                        |
+|-------------:|:---------------------------------------------------------------------------------------------------------------------------------------|
+|  9:00 – 9:25 | _M. Chraibi, B. Steffen_ <br> The Automatic Generation of an Efficient Floor Field for CA Simulations in Crowd Management              |
+|  9:25 – 9:50 | _T. Gwizdałła, J. Wojtowicz, I. Wadowski, B. Dyrda_ <br> Traffic on small grids and the ramp problem                                   |
+| 9:50 – 10:15 | _E. Kirik, T. Vitova, A. Malyshev, E. Popel_ <br> The impact of different angle paths on discrete-continuous pedestrian dynamics model |
 
 
 <a name="main-5"></a>

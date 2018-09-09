@@ -52,7 +52,7 @@ The school will continue with the [workshops](/workshops) to introduce the stude
 
 <div class="columns">
   <div class="column is-narrow">
-	<div class="box" style="width: 300px;">
+	<div class="box" style="width: 200px;">
 		<img src="/assets/images/chopard.jpg">
 	</div>
   </div>
