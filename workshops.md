@@ -19,3 +19,13 @@ The workshops will follow and complete the [Intensive School on Cellular Automat
 The workshops will be followed by the [main conference](/conference).
 
 ***Additional Information***: For PhD students from the University of Milano-Bicocca attending the workshops is valid for half of a course credit.
+
+<h3>Workshops Schedule</h3>
+
+{% include workshops_program.md %}
+
+**Detailed program**
+
+{% include detailed_workshops_program.md%}
+
+You can find the entire conference and workshop program [here](/program).
