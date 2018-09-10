@@ -58,111 +58,108 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 1**
 
-|               |                                                                                                                                                             |
-|--------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10:50 – 11:15 | _S. Ghosh, P. P. Chaudhuri_ <br> Cellular Automata Model for Proteomics and its Application in Cancer Immunotherapy                                         |
-| 11:15 – 11:40 | _A. Graudenzi, D. Maspero and C. Damiani_ <br> Modeling spatio-temporal dynamics of metabolic networks with cellular automata and constraint- based methods |
-| 11:40 – 12:05 | _A. Hodgkinson_ <br> A Novel Cellular Automata Modelling Framework for Micro-Environmental Interaction and Co-Invasion                                      |
-| 12:05 – 12:30 | _M. Panuszewska, B. Minch, R. Wcisło and W. Dzwinel_ <br> PAM: Discrete 3-D model of tumor dynamics in presence of anti-tumor treatment                     |
+<table>
+<tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Ghosh' %} </td></tr>
+<tr><td> 11:15 – 11:40 </td><td> {% include papers.md id='Graudenzi' %} </td></tr>
+<tr><td> 11:40 – 12:05 </td><td> {% include papers.md id='Hodgkinson' %} </td></tr>
+<tr><td> 12:05 – 12:30 </td><td> {% include papers.md id='Panuszewska' %} </td></tr>
+</table>
 
 <a name="main-2"></a>
 
 **Session 2**
 
-|               |                                                                                                                                                                                    |
-|--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14:00 – 14:25 | _A. Dennunzio, V. Dorigatti, E. Formenti, L. Manzoni, A. E. Porreca_ <br> Polynomial Equations over Finite, Discrete-Time Dynamical Systems                                        |
-| 14:25 – 14:50 | _S. Di Gregorio_ <br> The Representation Role for Basic Operations Embodied in Cellular Automata: a Suitability Example for Addition in Redundant Numeral Systems vs Standard Ones |
-| 14:50 – 15:15 | _I. Karafyllidis, G. Ch. Sirakoulis_ <br> Quantum Walks on Quantum Cellular Automata Lattices: Towards a new model for quantum computation                                         |
+<table>
+<tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Dennunzio' %}   </td></tr>
+<tr><td> 14:25 – 14:50 </td><td> {% include papers.md id='DiGregorio' %}  </td></tr>
+<tr><td> 14:50 – 15:15 </td><td> {% include papers.md id='Karafyllidis' %} </td></tr>
+</table>
 
 <a name="main-3"></a>
 
 **Session 3**
 
-|               |                                                                                                                 |
-|--------------:|:----------------------------------------------------------------------------------------------------------------|
-| 15:40 – 16:05 | _K. Małecki_ <br> Two-way road cellular automaton model with loading/unloading bays for traffic flow simulation |
-| 16:05 – 16:30 | _P. Wagner, J. Rummel_ <br> A microscopic CA model of traffic flow?                                             |
+<table>
+<tr><td> 15:40 – 16:05 </td><td> {% include papers.md id='Malecki' %} </td></tr>
+<tr><td> 16:05 – 16:30 </td><td> {% include papers.md id='Wagner' %}  </td></tr>
+</table>
 
 <a name="main-4"></a>
 
 **Session 4**
 
-|              |                                                                                                                                        |
-|-------------:|:---------------------------------------------------------------------------------------------------------------------------------------|
-|  9:00 – 9:25 | _M. Chraibi, B. Steffen_ <br> The Automatic Generation of an Efficient Floor Field for CA Simulations in Crowd Management              |
-|  9:25 – 9:50 | _T. Gwizdałła, J. Wojtowicz, I. Wadowski, B. Dyrda_ <br> Traffic on small grids and the ramp problem                                   |
-| 9:50 – 10:15 | _E. Kirik, T. Vitova, A. Malyshev, E. Popel_ <br> The impact of different angle paths on discrete-continuous pedestrian dynamics model |
-
+<table>
+<tr><td> 9:00 – 9:25 </td><td> {% include papers.md id='Chraibi' %} </td></tr>
+<tr><td> 9:25 – 9:50 </td><td> {% include papers.md id='Gwizdalla' %} </td></tr>
+<tr><td> 9:50 – 10:15 </td><td> {% include papers.md id='Kirik' %} </td></tr>
+</table>
 
 <a name="main-5"></a>
 
 **Session 5**
 
-|               |                                                                                                                                     |
-|--------------:|:------------------------------------------------------------------------------------------------------------------------------------|
-| 10:50 – 11:15 | _Y. Kayama, Y. Koda, I. Yazawa_ <br> Fractal arrangement for 2D cellular automata and its implementation for outer-totalistic rules |
-| 11:15 – 11:40 | _M. Kutrib, T. Worsch_ <br> Self-Verifying Cellular Automata                                                                        |
-| 11:40 – 12:05 | _R. Lakra, J. Jose, A. John_ <br> CARPenter – Cellular Automata based Resilient Pentavalent Stream Cipher                           |
-| 12:05 – 12:30 | _L. Mariot, A. Leporati_ <br> Inversion of Mutually Orthogonal Cellular Automata                                                    |
+<table>
+<tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Kayama' %} </td></tr>
+<tr><td> 11:15 – 11:40 </td><td> {% include papers.md id='Kutrib' %} </td></tr>
+<tr><td> 11:40 – 12:05 </td><td> {% include papers.md id='Lakra' %} </td></tr>
+<tr><td> 12:05 – 12:30 </td><td> {% include papers.md id='Mariot' %} </td></tr>
+</table>
 
 <a name="main-6"></a>
 
 **Session 6**
 
-|               |                                                                                                                                                                                                                                 |
-|--------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14:00 – 14:25 | _I. Abdennour, M. Ouardouz, A. Bernoussi_ <br> Modeling of electrical and thermal behaviors of photovoltaic panels using cellular automata approach                                                                             |
-| 14:25 – 14:50 | _J. García-Duro, L. Manzoni, I. Arias, M. Casal, O. Cruz, X. Manoel Pesqueira, A. Muñoz, R. Álvarez, L. Mariot, S. Bandini, O. Reyes_ <br> Hidden costs of modelling Post-Fire Plant Community Assembly using Cellular Automata |
-| 14:50 – 15:15 | _M. Madikas, M.-A. Tsompanas, N. Dourvas, G. Ch. Sirakoulis, J. Jones, A. Adamatzky_ <br> Hardware implementation of a biomimicking hybrid CA                                                                                   |
-
-
+<table>
+<tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Abdennour' %} </td></tr>
+<tr><td> 14:25 – 14:50 </td><td> {% include papers.md id='Garcia-Duro' %} </td></tr>
+<tr><td> 14:50 – 15:15 </td><td> {% include papers.md id='Madikas' %} </td></tr>
+</table>
 
 <a name="main-7"></a>
 
 **Session 7**
 
-|               |                                                                                                                                |
-|--------------:|:-------------------------------------------------------------------------------------------------------------------------------|
-| 15:40 – 16:05 | _J. Stępień, J. Stafiej_ <br> Potential Oscillations in Cellular Automaton Based Model for Passivation of Metal Surface        |
-| 16:05 – 16:30 | _A. Carrieri, L. Crociani, G. Vizzari, S. Bandini_ <br> Motion Detection and Characterization in Videos with Cellular Automata |
+<table>
+<tr><td> 15:40 – 16:05 </td><td> {% include papers.md id='Stepien' %} </td></tr>
+<tr><td> 16:05 – 16:30 </td><td> {% include papers.md id='Carrieri' %} </td></tr>
+</table>
 
 <a name="main-8"></a>
 
 **Session 8**
 
-|               |                                                                                                                                                                                  |
-|--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 10:50 – 11:15 | _A. Daly, W. Quaghebeur, T. Depraetere, J. Baetens, B. De Baets_ <br> Coexistence in three-species cyclic competition: lattice-based versus lattice-free individual-based models |
-| 11:15 – 11:40 | _J. Gasior, F. Seredynski, R. Hoffmann_ <br> Towards Self-organizing Sensor Networks: Game-Theoretic epsilon-Learning Automata-based Approach                                    |
-| 11:40 – 12:05 | _C. Tinoco, G. Oliveira_ <br> Pheromone interactions in a cellular automata-based model for surveillance robots                                                                  |
-| 12:05 – 12:30 | _I. Varga, A. Némethy, G. Kocsis_ <br> Agent-based simulation of information spreading in VANET                                                                                  |
+<table>
+<tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Daly' %} </td></tr>
+<tr><td> 11:15 – 11:40 </td><td> {% include papers.md id='Gasior' %} </td></tr>
+<tr><td> 11:40 – 12:05 </td><td> {% include papers.md id='Tinoco' %} </td></tr>
+<tr><td> 12:05 – 12:30 </td><td> {% include papers.md id='Varga' %} </td></tr>
+</table>
 
 <a name="main-9"></a>
 
 **Session 9**
 
-|               |                                                                                                               |
-|--------------:|:--------------------------------------------------------------------------------------------------------------|
-| 14:00 – 14:25 | _F. Bagnoli, S. Dridi, S. El Yacoubi, Raul Rechtman_ <br> Regional Control of Probabilistic Cellular Automata |
-| 14:25 – 14:50 | _T. T. Nguyen, L. Maignan_ <br> Firsts Steps in Cellular Fields Optimization : a FSSP case study              |
+<table>
+<tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Bagnoli-01' %} </td></tr>
+<tr><td> 14:25 – 14:50 </td><td> {% include papers.md id='Nguyen' %} </td></tr>
+</table>
 
 <a name="main-10"></a>
 
 **Session 10**
 
-|               |                                                                                                                |
-|--------------:|:---------------------------------------------------------------------------------------------------------------|
-| 15:20 – 15:45 | _F. Bagnoli, R. Rechtman_ <br> Regional synchronization of a probabilistic cellular automaton                  |
-| 15:45 – 16:10 | _H. Umeo_ <br> State-efficient Implementations of Fault-tolerant FSSP Algorithms for 1D and 2D Cellular Arrays |
+<table>
+<tr><td> 15:20 – 15:45 </td><td> {% include papers.md id='Bagnoli-02' %} </td></tr>
+<tr><td> 15:45 – 16:10 </td><td> {% include papers.md id='Umeo' %} </td></tr>
+</table>
 
 <a name="poster"></a>
 
 **Poster session**
 
-|                                                                                                                                                       |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------|
-| _R. Hoffmann, D. Désérable, F. Seredynski_ <br> Stability Levels and Termination in Evolved CA Agents for the Black--Pattern Task                     |
-| _J. Orzechowska, D. Fordon, T. Gwizdałła_ <br> Size effect in Cellular Automata based disease spreading modelaa                                       |
-| _S. Adak, S. Mukherjee, S. Das_ <br> Do there exist Non-linear Maximal Length Cellular Automata? A Study                                              |
-| _A. T. Lawniczak, F. Yu_ <br> Analysis of Rates of Agents’ Decisions in Learning to Cross a Highway in Populations with Risk Takers and Risk Avoiders |
+<table>
+<tr><td> {% include papers.md id='Hoffmann' %} </td></tr>
+<tr><td> {% include papers.md id='Orzechowska' %} </td></tr>
+<tr><td> {% include papers.md id='Adak' %} </td></tr>
+<tr><td> {% include papers.md id='Lawniczak' %} </td></tr>
+</table>
