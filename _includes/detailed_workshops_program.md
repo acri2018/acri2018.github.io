@@ -15,7 +15,7 @@
 <table>
 <tr><td> 11:15 – 11:40 </td><td> {% include workshop-papers.md id='Goles' %} </td></tr>
 <tr><td> 11:40 – 12:05 </td><td> {% include workshop-papers.md id='Istrate' %} </td></tr>
-<tr><td> 12:05 – 12:30 </td><td> {% include workshop-papers.md id='Manozni' %} </td></tr>
+<tr><td> 12:05 – 12:30 </td><td> {% include workshop-papers.md id='Manzoni' %} </td></tr>
 </table>
 
 <a name="workshop-3"></a>
