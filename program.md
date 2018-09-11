@@ -58,6 +58,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 1**
 
+| chair | Luca Mariot <br><small> Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy)</small>  |
+
 <table>
 <tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Ghosh' %} </td></tr>
 <tr><td> 11:15 – 11:40 </td><td> {% include papers.md id='Graudenzi' %} </td></tr>
@@ -69,6 +71,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 2**
 
+| chair | Thomas Worsch <br><small>Institute for Theoretical Informatics, Karlsruhe Institute of Technology (Germany) </small> |
+
 <table>
 <tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Dennunzio' %}   </td></tr>
 <tr><td> 14:25 – 14:50 </td><td> {% include papers.md id='DiGregorio' %}  </td></tr>
@@ -79,6 +83,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 3**
 
+| chair | Giuseppe Vizzari <br><small> Department of Informatics, Systems and Communication, University of Milano-Bicocca (Italy)</small> |
+
 <table>
 <tr><td> 15:40 – 16:05 </td><td> {% include papers.md id='Malecki' %} </td></tr>
 <tr><td> 16:05 – 16:30 </td><td> {% include papers.md id='Wagner' %}  </td></tr>
@@ -87,6 +93,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 <a name="main-4"></a>
 
 **Session 4**
+
+| chair | Georgios Sirakoulis <br><small>Democritus University of Thrace (Greece)</small> |
 
 <table>
 <tr><td> 9:00 – 9:25 </td><td> {% include papers.md id='Chraibi' %} </td></tr>
@@ -97,6 +105,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 <a name="main-5"></a>
 
 **Session 5**
+
+| chair | Luca Manzoni <br><small> Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy)</small> |
 
 <table>
 <tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Kayama' %} </td></tr>
@@ -109,6 +119,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 6**
 
+| chair | Franco Bagnoli <br><small>Department of Physics and Astronomy, University of Florence (Italy)</small> |
+
 <table>
 <tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Abdennour' %} </td></tr>
 <tr><td> 14:25 – 14:50 </td><td> {% include papers.md id='Garcia-Duro' %} </td></tr>
@@ -119,6 +131,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 7**
 
+| chair | Andrea Gorrini <br><small> Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy) </small> |
+
 <table>
 <tr><td> 15:40 – 16:05 </td><td> {% include papers.md id='Stepien' %} </td></tr>
 <tr><td> 16:05 – 16:30 </td><td> {% include papers.md id='Carrieri' %} </td></tr>
@@ -127,6 +141,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 <a name="main-8"></a>
 
 **Session 8**
+
+| chair | Stefania Bandini <br><small> Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy) </small> |
 
 <table>
 <tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Daly' %} </td></tr>
@@ -139,6 +155,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 9**
 
+| chair | Hiroshi Umeo <br><small>University of Osaka Electro-Communication, Osaka (Japan)</small> |
+
 <table>
 <tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Bagnoli-01' %} </td></tr>
 <tr><td> 14:25 – 14:50 </td><td> {% include papers.md id='Nguyen' %} </td></tr>
@@ -147,6 +165,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 <a name="main-10"></a>
 
 **Session 10**
+
+| chair | Giancarlo Mauri <br><small>Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy)</small>  |
 
 <table>
 <tr><td> 15:20 – 15:45 </td><td> {% include papers.md id='Bagnoli-02' %} </td></tr>

@@ -24,7 +24,7 @@
 		<small>¹Department of Computer Science, West University of Timişoara</small><br>
 		<small>²e-Austria Research Institute</small>
 	{% when 'Manzoni' %}
-		<i>L. Manzoni¹, L. Mariot²</i> <br>
+		<i>L. Manzoni¹, L. Mariot¹</i> <br>
 		Cellular Automata Pseudo-Random Number Generators and Their Resistance to Asynchrony <br>
 		<small>¹Dipartimento di Informatica, Sistemistica e Comunicazione. Università degli Studi di Milano-Bicocca</small>
 	{% when 'Almeida' %}

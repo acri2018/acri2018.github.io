@@ -2,6 +2,8 @@
 
 **Workshop Session 1**
 
+| chair | Alberto Dennunzio <br><small>Department of Informatics, Systems and Communication<br>University of Milano-Bicocca (Italy)</small> |
+
 <table>
 <tr><td> 9:40 – 10:05 </td><td> {% include workshop-papers.md id='Fates' %} </td></tr>
 <tr><td> 10:05 – 10:30 </td><td> {% include workshop-papers.md id='Gadoleau' %} </td></tr>
@@ -11,6 +13,8 @@
 <a name="workshop-2"></a>
 
 **Workshop Session 2**
+
+| chair | Enrico Formenti <br><small> Université Côte d'Azur, CNRS, I3S (France)</small>|
 
 <table>
 <tr><td> 11:15 – 11:40 </td><td> {% include workshop-papers.md id='Goles' %} </td></tr>
@@ -22,6 +26,8 @@
 
 **Workshop Session 3**
 
+| chair | Jarosław Wąs <br><small>AGH University of Science and Technology (Poland)</small> |
+
 <table>
 <tr><td> 14:00 – 14:25 </td><td> {% include workshop-papers.md id='Almeida' %} </td></tr>
 <tr><td> 14:25 – 14:50 </td><td> {% include workshop-papers.md id='Bazior' %} </td></tr>
@@ -32,6 +38,8 @@
 <a name="workshop-4">
 
 **Workshop Session 4**
+
+| chair | Katsuhiro Nishinari <br><small>Research Center for Advanced Science and Technology, The University of Tokyo (Japan)</small> |
 
 <table>
 <tr><td> 16:10 – 16:35 </td><td> {% include workshop-papers.md id='Gorrini' %} </td></tr>
