@@ -11,7 +11,8 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 |               |                                                                                                                                                                                        |
 |--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|   9:10 – 9:20 | ACRI 2018 Opening                                                                                                                                                                      |
+|   8:30 - 9:00 | Registration                                                                                                                                                                           |
+|   9:00 – 9:20 | ACRI 2018 Opening                                                                                                                                                                      |
 |  9:20 – 10:20 | Invited Talk 1 (Andreas Deutsch)<br>[_Biological lattice-gas cellular automaton models for the analysis of collective behaviour in interacting cell populations_](/conference#invited) |
 | 10:20 – 10:50 | Coffee break                                                                                                                                                                           |
 | 10:50 – 12:30 | [Session 1: Biological Systems Modeling](#main-1)                                                                                                                                      |
@@ -20,18 +21,21 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 | 15:15 – 15:40 | Coffee break                                                                                                                                                                           |
 | 15:40 – 16:30 | [Session 3: Pedestrian and Traffic Dynamics II](#main-3)                                                                                                                               |
 | 16:30 – 17:30 | [Poster Session](#poster)                                                                                                                                                              |
+|         20:00 | Social Dinner                                                                                                                                                                          |
 
 **Thursday, 20 September**
 
-|               |                                                                  |
-|--------------:|:-----------------------------------------------------------------|
-|  9:00 – 10:20 | [Session 4: Pedestrian and Traffic Dynamics I](#main-4)          |
-| 10:25 – 10:50 | Coffee break                                                     |
-| 10:50 – 12:30 | [Session 5: Theory and Cryptography II](#main-5)                 |
-| 12:30 – 14:00 | Lunch                                                            |
-| 14:00 – 15:15 | [Session 6: Simulation and other Applications of CA I](#main-6)  |
-| 15:15 – 15:40 | Coffee break                                                     |
-| 15:40 – 16:30 | [Session 7: Simulation and other Applications of CA II](#main-7) |
+|               |                                                                                                                       |
+|--------------:|:----------------------------------------------------------------------------------------------------------------------|
+|  9:00 – 10:20 | [Session 4: Pedestrian and Traffic Dynamics I](#main-4)                                                               |
+| 10:25 – 10:50 | Coffee break                                                                                                          |
+| 10:50 – 12:30 | [Session 5: Theory and Cryptography II](#main-5)                                                                      |
+| 12:30 – 14:00 | Lunch                                                                                                                 |
+| 14:00 – 15:15 | [Session 6: Simulation and other Applications of CA I](#main-6)                                                       |
+| 15:15 – 15:40 | Coffee break                                                                                                          |
+| 15:40 – 16:30 | [Session 7: Simulation and other Applications of CA II](#main-7)                                                      |
+| 18:30 - 20:00 | COMPLEX SYSTEMS AND MUSIC ON THE LAKE <br> Artificial and Natural Music Therapy<br>_Musical Event at Yacht Club Como_ |
+
 
 **Friday, 21 September**
 
