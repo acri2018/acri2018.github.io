@@ -12,7 +12,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 |               |                                                                                                                                                                                        |
 |--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   8:30 - 9:00 | Registration                                                                                                                                                                           |
-|   9:00 – 9:20 | ACRI 2018 Welacome and Opening                                                                                                                                                         |
+|   9:00 – 9:20 | ACRI 2018 Welcome and Opening                                                                                                                                                         |
 |  9:20 – 10:20 | Invited Talk 1 (Andreas Deutsch)<br>[_Biological lattice-gas cellular automaton models for the analysis of collective behaviour in interacting cell populations_](/conference#invited) |
 | 10:20 – 10:50 | Coffee break                                                                                                                                                                           |
 | 10:50 – 12:30 | [Session 1: Biological Systems Modeling](#main-1)                                                                                                                                      |
