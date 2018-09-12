@@ -12,7 +12,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 |               |                                                                                                                                                                                        |
 |--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   8:30 - 9:00 | Registration                                                                                                                                                                           |
-|   9:00 – 9:20 | ACRI 2018 Opening                                                                                                                                                                      |
+|   9:00 – 9:20 | ACRI 2018 Welacome and Opening                                                                                                                                                         |
 |  9:20 – 10:20 | Invited Talk 1 (Andreas Deutsch)<br>[_Biological lattice-gas cellular automaton models for the analysis of collective behaviour in interacting cell populations_](/conference#invited) |
 | 10:20 – 10:50 | Coffee break                                                                                                                                                                           |
 | 10:50 – 12:30 | [Session 1: Biological Systems Modeling](#main-1)                                                                                                                                      |
@@ -58,11 +58,19 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 {% include detailed_workshops_program.md %}
 
+<h3>ACRI 2018 Main Track</h3>
+
+<table>
+<tr><td> 9:00 - 9:20 </td><td> <b>ACRI 2018 Welcome and Opening</b> <br>
+<i> Giancarlo Mauri </i><br><small>Department of Informatics, Systems and Communications<br>University of Milano-Bicocca (Italy)</small><br>
+<i> Samira El Yacoubi </i><br><small>Department of Mathematics and Computer Science<br>University of Perpignan (France)</small></td></tr>
+</table>
+
 <a name="main-1"></a>
 
 **Session 1**
 
-| chair | Luca Mariot <br><small> Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy)</small>  |
+| chair | Franco Bagnoli <br><small>Department of Physics and Astronomy, University of Florence (Italy)</small> |
 
 <table>
 <tr><td> 10:50 – 11:15 </td><td> {% include papers.md id='Ghosh' %} </td></tr>
@@ -87,7 +95,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 3**
 
-| chair | Giuseppe Vizzari <br><small> Department of Informatics, Systems and Communication, University of Milano-Bicocca (Italy)</small> |
+| chair | Georgios Sirakoulis <br><small>Democritus University of Thrace (Greece)</small> |
 
 <table>
 <tr><td> 15:40 – 16:05 </td><td> {% include papers.md id='Malecki' %} </td></tr>
@@ -98,7 +106,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 4**
 
-| chair | Georgios Sirakoulis <br><small>Democritus University of Thrace (Greece)</small> |
+| chair |  Giuseppe Vizzari <br><small> Department of Informatics, Systems and Communication, University of Milano-Bicocca (Italy)</small> |
 
 <table>
 <tr><td> 9:00 – 9:25 </td><td> {% include papers.md id='Chraibi' %} </td></tr>
@@ -123,7 +131,7 @@ For the [school program](/school#schedule) see the [here](/school#schedule).
 
 **Session 6**
 
-| chair | Franco Bagnoli <br><small>Department of Physics and Astronomy, University of Florence (Italy)</small> |
+| chair | Luca Mariot <br><small> Department of Informatics, Systems and Communication<br> University of Milano-Bicocca (Italy)</small> |
 
 <table>
 <tr><td> 14:00 – 14:25 </td><td> {% include papers.md id='Abdennour' %} </td></tr>

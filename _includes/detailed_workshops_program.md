@@ -1,3 +1,10 @@
+<h2>Fifth International Workshop on Asynchronous Cellular Automata</h2>
+
+**Workshop Chairs**
+
+| Alberto Dennunzio <br><small>Dept. of Informatics, Systems and Communication, University of Milan-Bicocca (Italy)</small> |
+| Enrico Formenti <br><small> niversite Côte d’Azur, CNRS, I3S (France)</small>                                             |
+
 <a name="workshop-1"></a>
 
 **Workshop Session 1**
@@ -21,6 +28,15 @@
 <tr><td> 11:40 – 12:05 </td><td> {% include workshop-papers.md id='Istrate' %} </td></tr>
 <tr><td> 12:05 – 12:30 </td><td> {% include workshop-papers.md id='Manzoni' %} </td></tr>
 </table>
+
+<h2>Joint International Workshop on Traffic, Crowds and Cellular Automata</h2>
+
+**Workshop Chairs**
+
+| Katsuhiro Nishinari <br><small>Research Center for Advanced Science and Technology, The University of Tokyo (Japan)</small>    |
+| Andreas Schadschneider <br><small> Institute for Theoretical Physics, University of Cologne (Germany)</small>                  |
+| Giuseppe Vizzari <br><small> Complex Systems and Artificial Intelligence Research Center, university of Milano-Bicocca (Italy) |
+| Jaros‌ław Wa̧s<br><small>AGH University of Science and Technology (Poland)</small>                                               |
 
 <a name="workshop-3"></a>
 
