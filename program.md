@@ -3,7 +3,7 @@ layout: page
 title: Preliminary Program
 ---
 
-For the [school program](/school#schedule) see the [here](/school#schedule).
+For the [school program](/school#schedule) see [here](/school#schedule).
 
 {% include workshops_program.md %}
 

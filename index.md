@@ -10,6 +10,8 @@ The 13<sup>th</sup> International Conference and School "Cellular Automata for R
 
 The preliminary [conference and workshops program](/program/) is now available.
 
+The LNCS conference proceedings [are now available](https://link.springer.com/book/10.1007/978-3-319-99813-8).
+
 _Chairs_
 
 - Giancarlo Mauri, University of Milano-Bicocca, Italy (chair)

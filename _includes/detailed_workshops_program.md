@@ -3,7 +3,7 @@
 **Workshop Chairs**
 
 | Alberto Dennunzio <br><small>Dept. of Informatics, Systems and Communication, University of Milan-Bicocca (Italy)</small> |
-| Enrico Formenti <br><small> niversite Côte d’Azur, CNRS, I3S (France)</small>                                             |
+| Enrico Formenti <br><small> Universite Côte d’Azur, CNRS, I3S (France)</small>                                            |
 
 <a name="workshop-1"></a>
 
