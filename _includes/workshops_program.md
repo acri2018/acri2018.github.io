@@ -11,3 +11,4 @@
 | 15:40 – 16:10 | Coffee break                                                                |
 | 16:10 – 17:50 | [Workshop Session 4: Traffic, Crowds and Cellular Automata II](#Workshop-4) |
 | 17:50 – 18:00 | ACRI Workshops Closing                                                      |
+| 18:00 - 19:00 | Welcome cocktail at Villa del Grumello                                      |

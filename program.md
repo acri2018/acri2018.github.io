@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preliminary Program
+title: Program
 ---
 
 For the [school program](/school#schedule) see [here](/school#schedule).
