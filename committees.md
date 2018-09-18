@@ -39,7 +39,6 @@ title: Committees
 - Sara Manzoni, University of Milano-Bicocca, Italy
 - Luca Mariot, University of Milano-Bicocca, Italy
 - Genaro J. Martínez, National Polytechnic Institute, Mexico
-- Giancarlo Mauri, University of Milano-Bicocca, Italy
 - Angelo B Mingarelli, Carleton University, Canada
 - Shin Morishita, Yokohama National University, Japan
 - Katsuhiro Nishinari, RCAST, The University of Tokyo, Japan
