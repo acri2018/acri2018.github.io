@@ -1,4 +1,7 @@
 
+_23-09-2018_<br>
+The [photos](/photos/) of the conference are now online.
+
 _30-08-2018_<br>
 The school [program](/school#schedule) is now available
 
